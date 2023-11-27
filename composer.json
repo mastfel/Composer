@@ -1,0 +1,15 @@
+{
+    "name": "mast/fel",
+    "autoload": {
+        "psr-4": {
+            "Mast\\Fel\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mast",
+            "email": "mastfel@gmail.com"
+        }
+    ],
+    "require": {}
+}
